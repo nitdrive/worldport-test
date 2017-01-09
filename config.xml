@@ -1,0 +1,20 @@
+<widget xmlns:cdv="http://cordova.apache.org/ns/1.0"
+ id="io.cordova.appb64ec64666e9432a9caf5f01009feb88"
+  version="1.0.0.0"
+  xmlns:gap="http://phonegap.com/ns/1.0"
+  xmlns="http://www.w3.org/ns/widgets">
+  <name>World-Ports</name>
+  <description>
+        Mobile app of World Ports and Sustainability to view various graphs. The graphs are on parameters to measure Energy Consumption and Waste Discharge of Ports around the world.
+    </description>
+    
+    <author email="thekbsystems@gmail.com" href="http://www.thekbsystems.com/WorldPorts-SustainabilityForum/Home.aspx">
+        The KB Systems
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="SplashScreen" value="splash" />
+    <preference name="SplashScreenDelay" value="10000" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="StatusBarOverlaysWebView" value="false"/>
+</widget>
